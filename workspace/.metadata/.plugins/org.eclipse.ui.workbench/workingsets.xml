@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1449336644191_1" label="E1 Hello World" name="E1 Hello World">
+<item elementID="=E1 Hello World" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1449355178049_2" label="E2 Compute Engine" name="E2 Compute Engine">
+<item elementID="=E2 Compute Engine Server" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=E2.1 Compute Engine Server" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=E2 Compute Engine Shared" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=E2 Compute Engine Client" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1449336070415_0" label="Window Working Set" name="Aggregate for window 1449336070415"/>
+<mruList name="E2 Compute Engine"/>
+<mruList name="E1 Hello World"/>
+</workingSetManager>

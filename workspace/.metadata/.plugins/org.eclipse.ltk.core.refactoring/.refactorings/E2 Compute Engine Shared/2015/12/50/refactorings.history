@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;compute&apos; to &apos;E2.1 Compute Engine Shared/src&apos;&#x0D;&#x0A;- Original project: &apos;E2 Compute Engine Shared&apos;&#x0D;&#x0A;- Destination element: &apos;E2.1 Compute Engine Shared/src&apos;&#x0D;&#x0A;- Original element: &apos;E2 Compute Engine Shared/src/compute&apos;" description="Copy package" destination="=E2.1 Compute Engine Shared/src" element1="/src&lt;compute" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1449363108736" version="1.0"/>
+</session>
